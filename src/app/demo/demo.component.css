@@ -1,0 +1,10 @@
+.demo{
+  background-color: rgb(205, 246, 232);
+  width: 900px;
+  height: 90px;
+  margin: 20px auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid green;
+}
